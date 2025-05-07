@@ -57,7 +57,7 @@ Use Case Diagrams show how different users interact with the system to achieve s
 Below is the use case diagram illustrating the main interactions between the system and its users:
 
 
-![Use Case Diagram for Booking Management System](https://drive.google.com/file/d/1YNZwxCSffFRYt8lR7aH_YMRmf-2Nin2H/view?usp=sharing)
+![Use Case Diagram for Booking Management System](Use Case Diagram for Booking Management System.drawio.png)
 
 
 
