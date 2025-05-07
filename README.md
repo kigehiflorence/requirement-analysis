@@ -31,4 +31,19 @@ Requirement analysis is a critical phase in the software development lifecycle w
 - **Requirement Validation:**  
   The final activity involves verifying and validating the documented requirements with stakeholders to ensure they accurately reflect their needs and are achievable. This step helps identify any misunderstandings or gaps before development begins.(requirment approval, acceptance criteria, traceability)
 
-
+## Types of Requirements
+### Functional Requirements
+Describe what the system should do.
+** Examples **
+- User registration
+- Property Listings
+- Booking systems
+- User Authentication
+### Non-functional Requirements
+Describe how the system should perform.
+** Examples **
+- Performance
+- Security
+- Scalability
+- Usability
+- Reliabitlity
