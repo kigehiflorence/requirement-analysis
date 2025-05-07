@@ -57,7 +57,7 @@ Use Case Diagrams show how different users interact with the system to achieve s
 Below is the use case diagram illustrating the main interactions between the system and its users:
 
 
-![Use Case Diagram](use-case-diagram.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 
 
