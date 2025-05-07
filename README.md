@@ -60,7 +60,24 @@ Below is the use case diagram illustrating the main interactions between the sys
 ![Use Case Diagram](alx-booking-uc.png)
 
 
+## Acceptance Criteria
+Acceptance Criteria are conditions that a feature must meet to be accepted by the stakeholders.
 
+### Benefits of Acceptance Criteria in Requirement Analysis:
+- Ensures all parties have a clear understanding of features requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
+### Example: Acceptance Criteria for **Checkout Feature** in the Booking Management System
+
+**Feature:** Allow users to checkout and confirm their booking.
+
+**Acceptance Criteria:**
+- The system should allow a user to view all booking details before confirming checkout.
+- The user must be able to select a payment method (e.g., card, mobile money, or cash).
+- The system should validate that all required user information is filled in before proceeding.
+- The user should receive a confirmation message after a successful checkout.
+- A confirmation email containing the booking details must be sent to the user’s email address immediately after checkout.
+- The system should display an error message if payment fails or if mandatory details are missing.
 
 
 
