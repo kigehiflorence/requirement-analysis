@@ -8,9 +8,9 @@ In this repository, you’ll find structured notes, examples, templates, and res
 ## What is Requirement Analysis?
 Requirement analysis is a critical phase in the software development lifecycle where the project team gathers, analyzes and defines the requirements of the software product to e developed.
 ### 📌 Importance of Requirement Analysis in SDLC:
-Clarity and Understanding-Helps to understand what the stakeholders expect from the software reducing ambiguity.
-Scope definition-Clearly defines scope of the project preventing scope creep.
-Basis for design and development-Provides a solid foundation for designing and developing the system.
-Cost and time estimation.
-Quaity assurance.
+**Clarity and Understanding**-Helps to understand what the stakeholders expect from the software reducing ambiguity.
+**Scope definition**-Clearly defines scope of the project preventing scope creep.
+**Basis for design and development**-Provides a solid foundation for designing and developing the system.
+**Cost and time estimation.**
+**Quaity assurance.**
 
