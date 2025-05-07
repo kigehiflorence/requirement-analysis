@@ -34,14 +34,14 @@ Requirement analysis is a critical phase in the software development lifecycle w
 ## Types of Requirements
 ### Functional Requirements
 Describe what the system should do.
-** Examples **
+**Examples**
 - User registration
 - Property Listings
 - Booking systems
 - User Authentication
 ### Non-functional Requirements
 Describe how the system should perform.
-** Examples **
+ **Examples**
 - Performance
 - Security
 - Scalability
