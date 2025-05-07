@@ -47,3 +47,44 @@ Describe how the system should perform.
 - Scalability
 - Usability
 - Reliabitlity
+## Use Case Diagrams
+Use Case Diagrams show how different users interact with the system to achieve specific goals.
+### Benefits of Use Case Diagrams:
+- Provide clear visual representation of the system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication between stakeholders and development team.
+### Use Case Diagram for the Booking Management System:
+Below is the use case diagram illustrating the main interactions between the system and its users:
+
+
+![Use Case Diagram for Booking Management System](https://drive.google.com/file/d/1epCwYe5R6xJDsY_HfhYdRX-LSLHEUtWL/view?usp=sharing))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
